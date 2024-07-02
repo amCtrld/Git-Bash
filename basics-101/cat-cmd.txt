@@ -1,0 +1,9 @@
+Learning Shell scripting.
+Starting with the basics like echo and puss... sorry, cat.
+
+:w - write to disk
+:q - Quit vim
+:wq - Write to disk and quit vim
+:q! - Ignore changes made
+
+
